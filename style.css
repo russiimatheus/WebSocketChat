@@ -1,0 +1,6 @@
+body { font: 16px Arial; }
+#chat-container { width: 300px; margin: 0 auto; }
+#messages { list-style-type: none; padding: 0; }
+#form { margin-top: 10px; }
+#form button { background: #333; color: white; border: none; padding: 5px 10px; }
+#form input { border: 1px solid #ddd; }
